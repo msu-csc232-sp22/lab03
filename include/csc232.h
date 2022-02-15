@@ -18,6 +18,14 @@
 #define TRUE 1
 #define EXECUTE_BLOCK FALSE
 
+#define STARTED_TASK1 FALSE
+#define STARTED_TASK2 FALSE
+#define STARTED_TASK3 FALSE
+
+#define COMPLETED_TASK1 FALSE
+#define COMPLETED_TASK2 FALSE
+#define COMPLETED_TASK3 FALSE
+
 #include <algorithm>
 #include <cassert>
 #include <climits>
@@ -40,6 +48,10 @@
 #include <vector>
 
 #include "expanded_templates.h"
+
+#if STARTED_TASK1
+#include "int_ptr_cell.h"
+#endif
 
  /** Common iostream objects */
 using std::cerr;
