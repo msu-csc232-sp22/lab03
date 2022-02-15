@@ -1,4 +1,4 @@
-# LAB03 - Translating UML Class Diagramw
+# LAB03 - Translating UML Class Diagrams and the Big-Five
 
 A quasi-test-driven approach to translating a UML class diagrams into C++ classes.
 
