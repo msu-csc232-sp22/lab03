@@ -6,9 +6,14 @@ A quasi-test-driven approach to translating a UML class diagrams into C++ classe
 
 Before proceeding with this lab, the student should take the time to read
 
-* this
-* that 
-* and the other thing
+* Lecture notes
+  * [Lecture 3: C++ Classes](https://github.com/msu-csc232-fa19/lectures/blob/master/lecs/lec03-cpp-classes.md)
+  * [Lecture 4: C++ Details (Part 1)](https://github.com/msu-csc232-fa19/lectures/blob/master/lecs/lec04-pointers-param-passing.md)
+  * [Lecture 5: C++ Details (Part 2)](https://github.com/msu-csc232-fa19/lectures/blob/master/lecs/lec05-param-passing-return-passing.md)
+  * [Lecture 6: C++ Details (Part 3)](https://github.com/msu-csc232-fa19/lectures/blob/master/lecs/lec06-the-big-five.md)
+* Chapter 1 - Data Abstraction: The Walls (pp. 1-26, Carrano/Henry)
+* C++ Interlude 1: C++ Classes (pp. 31-46, Carrano/Henry)
+* Any prerequisites cited in the above chapters
 
 ## Objective
 
